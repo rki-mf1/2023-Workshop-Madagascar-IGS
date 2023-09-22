@@ -20,13 +20,11 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 ### <a name="0"></a> Monday, 9 October, 2023
 | Time        | Linux & NGS |
 | --          | --               |
-| 10:00-10:30 | Welcome & [introduction](day01-tuesday/general.md) |
-| 10:30-11:00 | [Linux re-cap](day01-tuesday/linux.md) |
-| 11:00-12:00 | [Sequencing introduction I (intro)](day01-tuesday/nanopore.md) |
+| 10:00-10:30 | Welcome & [introduction](day01-monday/general.md) |
+| 10:30-11:00 | [Linux re-cap](day01-monday/linux.md) |
 | 12:00-13:00 | Lunch break |
-| 13:00-14:00 | [Sequencing introduction II (file formats & QC)](day01-tuesday/nanopore.md) |
 | 14:00-14:30 | Coffee break |
-| 14:30-16:00 | [Hands-on & demo](day01-tuesday/hands-on.md) |
+| 14:30-16:00 | [Hands-on & demo](day01-monday/hands-on.md) |
 | 16:00-16:15 | Wrap-up & questions |
 
 ### <a name="1"></a> Tuesday, 10 October, 2023
@@ -34,11 +32,12 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | Time        | Genome Reconstruction I |
 | --          | --               |
 | 09:00-10:00 | Debriefing Day 1 |
-| 10:00-10:45 | [_De novo_ Assembly](day02-wednesday/assembly.md) |
+| 10:00-10:15 | [Raw data quality control](day02-tuesday/xxx.md) |
+| 10:15-10:45 | [_De novo_ Assembly](day02-tuesday/assembly.md) |
 | 10:45-11:00 | Coffee break |
-| 11:00-12:00 | [Mapping & Visualization](day02-wednesday/mapping.md) |
+| 11:00-12:00 | [Assembly quality control](day02-tuesday/mapping.md) |
 | 12:00-13:00 | Lunch break |
-| 13:00-14:30 | [Hands-on & demo](day02-wednesday/hands-on.md) |
+| 13:00-14:30 | [Hands-on & demo](day02-tuesday/hands-on.md) |
 | 14:30-15:00 | Coffee break |
 | 15:00-15:45 | Continue practical session |
 | 15:45-16:00 | Wrap-up & questions |
@@ -49,11 +48,11 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | Time        | Genome characterization |
 | --          | --               |
 | 09:00-10:00 | Debriefing Day 2 |
-| 10:00-10:45 | [Assembly polishing](day03-thursday/polishing.md) |
+| 10:00-10:45 | [Assembly polishing](day03-wednesday/polishing.md) |
 | 10:45-11:15 | Coffee break |
-| 11:15-12:00 | [Variant calling](day03-thursday/variant-calling.md) |
+| 11:15-12:00 | [Variant calling](day03-wednesday/variant-calling.md) |
 | 12:00-13:00 | Lunch break |
-| 13:00-14:30 | [Hands-on & demo](day03-thursday/hands-on.md) |
+| 13:00-14:30 | [Hands-on & demo](day03-wednesday/hands-on.md) |
 | 14:30-15:00 | Coffee break |
 | 15:00-15:45 | Continue practical session |
 | 15:45-16:00 | Wrap-up & questions |
@@ -63,8 +62,8 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | Time        | The Rest & Open Questions |
 | --          | --               |
 | 09:00-10:00 | Debriefing Day 3 |
-| 10:00-11:00 | [Miscellaneous](day04-friday/README.md) |
-| 11:00-12:00 | [Hands-on & demo](day04-friday/hands-on.md) |
+| 10:00-11:00 | [Miscellaneous](day04-thursday/README.md) |
+| 11:00-12:00 | [Hands-on & demo](day04-thursday/hands-on.md) |
 | 12:00-12:30 | Wrap-up & questions |
 
 ## Acknowledgement
