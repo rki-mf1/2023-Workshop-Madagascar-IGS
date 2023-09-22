@@ -1,35 +1,35 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics
+# 2023 Madagascar IGS Workshop 
 
-A practical introduction to long-read bioinformatics for bacterial genome reconstruction in the context of the Kenya MISSIoN project.
+A practical introduction to short-read bioinformatics for bacterial genome reconstruction in the context of the Madagascar IGS workshop 2023.
 
 ## Schedule links for the workshop
 
-* [8 August - Tuesday](#0)  
-* [9 August - Wednesday](#1)  
-* [10 August - Thursday](#2)  
-* [11 August - Friday](#3)  
+* [9 October - Monday](#0)  
+* [10 October - Tuesday](#1)  
+* [11 October - Wednesday](#2)  
+* [12 October - Thursday](#3)  
 
 ## Instructors
 
-* [Martin Hölzer](https://hoelzer.github.io), Matt Huska
+* Hugues Richard, Essia Belarbi, Simon Tausch
 
 ## Schedule
 
-> All events are held at Nordufer, room N01.O2.018
+> All events are held at Le Louvre Hotel
 
-### <a name="0"></a> Tuesday, 8 August, 2023
-| Time        | Linux & Nanopores |
+### <a name="0"></a> Monday, 9 October, 2023
+| Time        | Linux & NGS |
 | --          | --               |
 | 10:00-10:30 | Welcome & [introduction](day01-tuesday/general.md) |
 | 10:30-11:00 | [Linux re-cap](day01-tuesday/linux.md) |
-| 11:00-12:00 | [Nanopore introduction I (intro)](day01-tuesday/nanopore.md) |
+| 11:00-12:00 | [Sequencing introduction I (intro)](day01-tuesday/nanopore.md) |
 | 12:00-13:00 | Lunch break |
-| 13:00-14:00 | [Nanopore introduction II (file formats & QC)](day01-tuesday/nanopore.md) |
+| 13:00-14:00 | [Sequencing introduction II (file formats & QC)](day01-tuesday/nanopore.md) |
 | 14:00-14:30 | Coffee break |
 | 14:30-16:00 | [Hands-on & demo](day01-tuesday/hands-on.md) |
 | 16:00-16:15 | Wrap-up & questions |
 
-### <a name="1"></a> Wednesday, 9 August, 2023
+### <a name="1"></a> Tuesday, 10 October, 2023
 
 | Time        | Genome Reconstruction I |
 | --          | --               |
@@ -44,9 +44,9 @@ A practical introduction to long-read bioinformatics for bacterial genome recons
 | 15:45-16:00 | Wrap-up & questions |
 
 
-### <a name="2"></a> Thursday, 10 August, 2023
+### <a name="2"></a> Wednesday, 11 October, 2023
 
-| Time        | Genome Reconstruction II & Variant calling |
+| Time        | Genome characterization |
 | --          | --               |
 | 09:00-10:00 | Debriefing Day 2 |
 | 10:00-10:45 | [Assembly polishing](day03-thursday/polishing.md) |
@@ -58,7 +58,7 @@ A practical introduction to long-read bioinformatics for bacterial genome recons
 | 15:00-15:45 | Continue practical session |
 | 15:45-16:00 | Wrap-up & questions |
 
-### <a name="3"></a> Friday, 11 August, 2023
+### <a name="3"></a> Thursday, 12 October, 2023
 
 | Time        | The Rest & Open Questions |
 | --          | --               |
@@ -71,7 +71,6 @@ A practical introduction to long-read bioinformatics for bacterial genome recons
 
 This course material is partly based on the following resources and on contributions from great people:
 
-* Sebastian "Raverjay" Krautwurst, FSU Jena, some Linux and ONT content
+* Carlus Deneke, Federal Institute for Risk Assessment, Germany
+* Martin Hölzer, RKI, Germany
 * Workshop structure inspired by [https://github.com/cinemaparis/2023](https://github.com/cinemaparis/2023)
-* Some ONT intro slides from Josh Quick, [original](https://github.com/cinemaparis/2023/blob/main/day1-Tuesday/slides-Quick.pdf)
-* Nanopore long-read bioinformatics tutorial from [timkahlke](https://timkahlke.github.io/LongRead_tutorials)
