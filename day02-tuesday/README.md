@@ -1,10 +1,7 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 02
+# 2023 Workshop IGS Madagascar - Day 02
 
-## Lectures
+## Lectures and Hands-on 
 
-* [Assembly](assembly.md)
-* [Mapping & Visualization](mapping.md)
+* Morning session: [Trimming](trimming.md) 
 
-## Practical part
-
-* [Hands-on](hands-on.md)
+* Afternoon session: [Mapping & Visualization](mapping.md) 

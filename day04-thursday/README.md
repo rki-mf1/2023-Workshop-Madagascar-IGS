@@ -1,4 +1,4 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 04
+# 2023 Workshop IGS Madagascar - Day 04
 
 We use the last day for open questions and to discuss some additional helpful tools for your daily work with (Nanopore) sequencing data, assemblies, and annotations.
 

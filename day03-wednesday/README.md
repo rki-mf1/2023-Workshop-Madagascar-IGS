@@ -1,10 +1,7 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 03
+# 2023 Workshop IGS Madagascar - Day 03
 
 ## Lectures
 
-* [Polishing](polishing.md)
-* [Variant calling](variant-calling.md)
+* Morning session: [QC and Assembly with AQUAMIS](aquamis.md)
+* Afternoon session: [Functional annotation](funtionalannotation.md)
 
-## Practical part
-
-* [Hands-on](hands-on.md)

@@ -1,4 +1,4 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 04
+# 2023 Workshop IGS Madagascar - Day 04
 
 ## Hands-on
 
