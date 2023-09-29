@@ -53,7 +53,7 @@ AQUMAMIS will automatically generate an interactive report for manual curation o
 ```
 readlink -f assembly_report.html 
 ```
-Copy the resulting line into your browswer or klick this [link](/home/igsw/igs_workshop/aquamis_results/reports/assembly_report.html)
+Copy the resulting line into your browser.
 
 AQUAMIS will generate your assembed genomes as .fasta files at `/home/igsw/igs_workshop/aquamis_results/Assembly/assembly`. 
 

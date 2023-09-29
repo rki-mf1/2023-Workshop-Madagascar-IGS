@@ -8,4 +8,4 @@ We use the last day for open questions and to discuss some additional helpful to
 
 ## Practical part
 
-* [Hands-on](hands-on.md)
+* [Phylogeny session](phylogeny.md)
