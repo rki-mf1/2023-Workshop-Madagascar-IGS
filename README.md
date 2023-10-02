@@ -18,10 +18,10 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 > All events are held at Le Louvre Hotel,
 > Jardin Antaninarenina, 4 Kiana Philibert Tsiranana.
 
-### <a name="1"></a> Friday, 6 October, 2023
+### <a name="0"></a> Friday, 6 October, 2023
 | Time        | Linux introduction |
 | --          | --               |
-| 14:00-16:30 | Welcome & [hands on with Linux](day00-Friday/general.md) (optional)|
+| 14:00-16:30 | Welcome & [hands-on with Linux](day00-Friday/general.md) (optional)|
 
 
 ### <a name="1"></a> Monday, 9 October, 2023
