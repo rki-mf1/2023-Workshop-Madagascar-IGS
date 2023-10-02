@@ -3,7 +3,7 @@
 A practical introduction to short-read bioinformatics for bacterial genome reconstruction in the context of the Madagascar IGS workshop 2023.
 
 ## Schedule links for the workshop
-* [6 October - Friday, linux intro](#0)
+* [6 October - Friday](#0)
 * [9 October - Monday](#1)  
 * [10 October - Tuesday](#2)  
 * [11 October - Wednesday](#3)  
@@ -15,7 +15,8 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 
 ## Schedule
 
-> All events are held at Le Louvre Hotel
+> All events are held at Le Louvre Hotel,
+> Jardin Antaninarenina, 4 Kiana Philibert Tsiranana.
 
 ### <a name="1"></a> Friday, 6 October, 2023
 | Time        | Linux introduction |

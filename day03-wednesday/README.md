@@ -1,4 +1,4 @@
-# 2023 Workshop IGS Madagascar - Day 03
+# 2023 Workshop IGS Genome reconstruction - Day 03
 
 ## Lectures
 

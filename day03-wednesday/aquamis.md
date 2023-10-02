@@ -1,4 +1,4 @@
-# 2023 Workshop IGS Madagascar - Day 03
+# 2023 Workshop IGS Genome reconstruction - Day 03
 
 To ease analyses and get more reproducible, harmonized results, we can use pipelines. We will look at the [AQUAMIS](https://gitlab.com/bfr_bioinformatics/AQUAMIS) pipeline for Microbial Isolate QC and Assembly as an example. 
 

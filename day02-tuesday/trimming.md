@@ -1,4 +1,4 @@
-# 2023 Workshop IGS Madagascar - Day 02
+# 2023 Workshop IGS Genome reconstruction - Day 02
 
 ## Read trimming lecture
 First, we will look into short read raw data quality control.

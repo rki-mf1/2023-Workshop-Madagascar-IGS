@@ -1,4 +1,4 @@
-# 2023 Workshop IGS Madagascar - Day 04
+# 2023 Workshop IGS Genome reconstruction - Day 04
 
 After having QC'ed, assembled and characterized our data, we will try to put it into context. We will look at different methods for phylogenetic clustering of sequences and do a hands-on session using [chewieSnake](https://gitlab.com/bfr_bioinformatics/chewiesnake) for cgMLST-based clustering as an example.
 

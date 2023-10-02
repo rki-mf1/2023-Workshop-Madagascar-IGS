@@ -1,4 +1,4 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 01
+# 2023 Workshop IGS Genome reconstruction - Day 01
 
 ## Lectures
 

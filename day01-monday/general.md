@@ -1,4 +1,4 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 01
+# 2023 Workshop IGS Genome reconstruction - Day 01
 
 <a href="https://pollev.com/martinholzer210"><img align="right" width="140" height="140" src="../src/pollev.png"></a>
 

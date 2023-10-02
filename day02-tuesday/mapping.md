@@ -1,4 +1,4 @@
-# 2023 Workshop IGS Madagascar - Day 02
+# 2023 Workshop IGS Genome reconstruction - Day 02
 
 In this part we will talk about long-read mapping and how to investigate the mapped reads. We will also learn how to work with mapping files and prepare them for downstream analysis with `samtools`.
 

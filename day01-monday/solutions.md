@@ -1,4 +1,4 @@
-## Excercise
+## Exercises
 
 1)
 
