@@ -3,11 +3,11 @@
 A practical introduction to short-read bioinformatics for bacterial genome reconstruction in the context of the Madagascar IGS workshop 2023.
 
 ## Schedule links for the workshop
-
-* [9 October - Monday](#0)  
-* [10 October - Tuesday](#1)  
-* [11 October - Wednesday](#2)  
-* [12 October - Thursday](#3)  
+* [6 October - Friday, linux intro](#0)
+* [9 October - Monday](#1)  
+* [10 October - Tuesday](#2)  
+* [11 October - Wednesday](#3)  
+* [12 October - Thursday](#4)  
 
 ## Instructors
 
@@ -17,7 +17,13 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 
 > All events are held at Le Louvre Hotel
 
-### <a name="0"></a> Monday, 9 October, 2023
+### <a name="1"></a> Friday, 6 October, 2023
+| Time        | Linux introduction |
+| --          | --               |
+| 14:00-16:30 | Welcome & [hands on with Linux](day00-Friday/general.md) (optional)|
+
+
+### <a name="1"></a> Monday, 9 October, 2023
 | Time        | Linux & NGS |
 | --          | --               |
 | 10:00-10:30 | Welcome & [introduction](day01-monday/general.md) |
@@ -27,7 +33,7 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | 14:30-16:00 | [Hands-on & demo](day01-monday/hands-on.md) |
 | 16:00-16:15 | Wrap-up & questions |
 
-### <a name="1"></a> Tuesday, 10 October, 2023
+### <a name="2"></a> Tuesday, 10 October, 2023
 
 | Time        | Manual Raw data QC and analyses|
 | --          | --               |
@@ -43,7 +49,7 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | 15:45-16:00 | Wrap-up & questions |
 
 
-### <a name="2"></a> Wednesday, 11 October, 2023
+### <a name="3"></a> Wednesday, 11 October, 2023
 
 | Time        | Genome reconstruction and characterization |
 | --          | --               |
@@ -57,7 +63,7 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | 14:00-15:45 | [Functional annotation Hands-on](day03-wednesday/functionalannotation.md) |
 | 15:45-16:00 | Wrap-up & questions |
 
-### <a name="3"></a> Thursday, 12 October, 2023
+### <a name="4"></a> Thursday, 12 October, 2023
 
 | Time        | Phylogenetic analyses of isolate sequencing data |
 | --          | --               |
@@ -75,4 +81,5 @@ This course material is partly based on the following resources and on contribut
 
 * Carlus Deneke, Federal Institute for Risk Assessment, Germany
 * Martin Hölzer, RKI, Germany
+* Workshop course template from [the MF1 unit at RKI](https://github.com/rki-mf1/)
 * Workshop structure inspired by [https://github.com/cinemaparis/2023](https://github.com/cinemaparis/2023)
