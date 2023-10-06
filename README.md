@@ -21,13 +21,16 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 ### <a name="0"></a> Friday, 6 October, 2023
 | Time        | Linux introduction |
 | --          | --               |
-| 14:00-16:30 | Welcome & [hands-on with Linux](day00-Friday/general.md) (optional)|
+| 14:00-15:30 | Welcome & [hands-on with Linux](day00-Friday/general.md) (optional)|
+| 15:30-16:00 | Coffee | 
+| 16:00-17:0  | Hand-on with Linux (follw'd) | 
 
 
 ### <a name="1"></a> Monday, 9 October, 2023
 | Time        | Linux & NGS |
 | --          | --               |
-| 10:00-10:30 | Welcome & [introduction](day01-monday/general.md) |
+| 9:00-10:30 | Welcome & [introduction](day01-monday/general.md) |
+| 10:30-11:00 | Coffee break | 
 | 10:30-11:00 | [Linux re-cap](day01-monday/linux.md) |
 | 12:00-13:00 | Lunch break |
 | 14:00-14:30 | Coffee break |
