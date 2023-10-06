@@ -1,6 +1,6 @@
 # 2023 Workshop IGS Genome reconstruction - Day 03
 
-To create meaningful insights into our NGS data, we will today use [abricate](https://github.com/tseemann/abricate)
+To create meaningful insights into our NGS data, we will today characterize our assemblies. We will use [abricate](https://github.com/tseemann/abricate to find AMR-genes. 
 
 
 ## Lecture 
