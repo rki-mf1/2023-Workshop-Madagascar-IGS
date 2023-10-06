@@ -33,14 +33,14 @@ cut -f 2 /home/igsw/igs_workshop/aquamis_results/Assembly/assembly/samples.tsv >
 
 #### execute abricate on your selected files
 ```bash
-abricate --fofn /home/igsw/igs_workshop/abricate_results/fofn.txt > /home/igsw/igs_workshop/abricate_results/amr_results.csv
+abricate --fofn /home/igsw/igs_workshop/abricate_results/fofn.txt > /home/igsw/igs_workshop/abricate_results/amr_results.tab
 ```
 
 ### Further analysis of results
 
 #### Look at your results
 ```bash
-less home/igsw/igs_workshop/abricate_results/amr_results.csv
+less home/igsw/igs_workshop/abricate_results/amr_results.tab
 ```
 
 #### Let's find out where our AMR-Genes are located
