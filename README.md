@@ -21,7 +21,7 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 ### <a name="0"></a> Friday, 6 October, 2023
 | Time        | Linux introduction |
 | --          | --               |
-| 14:00-15:30 | Welcome & [hands-on with Linux](day00-Friday/general.md) (optional)|
+| 14:00-15:30 | Welcome & [hands-on with Linux](day00-friday/intro.md) (optional)|
 | 15:30-16:00 | Coffee | 
 | 16:00-17:0  | Hand-on with Linux (follw'd) | 
 
