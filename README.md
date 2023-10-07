@@ -23,7 +23,7 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | --          | --               |
 | 14:00-15:30 | Welcome & [hands-on with Linux](day00-friday/intro.md) (optional)|
 | 15:30-16:00 | Coffee | 
-| 16:00-17:0  | Hand-on with Linux (follw'd) | 
+| 16:00-17:00 | Hand-on with Linux (follw'd) | 
 
 
 ### <a name="1"></a> Monday, 9 October, 2023
