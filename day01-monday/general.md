@@ -4,7 +4,11 @@
 
 ## Icebreaker! Brisons la glace.
 
-Go to [pollev.com/huguesrichard041]https://pollev.com/huguesrichard041) on your browser or phone and wait until the poll is active.
+Go to [pollev.com/huguesrichard041](https://pollev.com/huguesrichard041) on your browser or phone and wait until the poll is active.
+
+## Presentating ourselves and the program for the workshop
+
+[slides](https://docs.google.com/presentation/d/1iaI6PohUKIyBYmBZlLwqZQQ4Vi7_lFzfyO65PkYllzY/edit?usp=sharing)
 
 ## General information & Setup
 
@@ -16,6 +20,8 @@ Go to [pollev.com/huguesrichard041]https://pollev.com/huguesrichard041) on your 
     * remember that `--help` and google (and ChatGPT) are your friends! 
 * Please raise your hand to ask a question at any time
 * There will be always "lecture" parts followed by practical hands-on 
-* We continue to work with the laptops you already used in the Illumina part
+
+
+
 
 Next: [Linux for Bioinformatics re-cap](linux.md)

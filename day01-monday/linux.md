@@ -2,7 +2,7 @@
 
 ## Short Linux and bash re-cap (srry, again)
 
-* Linux/Bash basics + conda setup ([slides](https://docs.google.com/presentation/d/14xELo7lDbd-FYuy144ZDK1tV_ZBdBYun_COelrKYWps/edit?usp=sharing))
+* Linux/Bash basics + conda setup ([slides](https://docs.google.com/presentation/d/14xELo7lDbd-FYuy144ZDK1tV_ZBdBYun_COelrKYWps/edit?usp=sharing), [slides en français](https://docs.google.com/presentation/d/12nda1yGlGqZ9hVcBAwkdw1lw7EPgjXLFdJswJo3mll4/edit?usp=sharing))
 * Another good resource: [Introduction to the UNIX command line](https://ngs-docs.github.io/2021-august-remote-computing/introduction-to-the-unix-command-line.html)
 * small Bash cheat sheet:
 
@@ -25,7 +25,12 @@ conda install nanoplot
 NanoPlot reads.fq.gz ...
 ```
 
-## Install conda (if done already on your machine: skip)
+## Small exercises 
+
+You can train yourself with some [exercises](../day00-friday/linux-pre.md) from Day 0.
+
+
+## Install conda (this is done already on the provided laptops: skip)
 
 * Conda is a packaging manager that will help us to install bioinformatics tools and to handle their dependencies automatically
 * In the terminal enter:
