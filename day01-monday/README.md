@@ -4,7 +4,6 @@
 
 * [General](general.md)
 * [Linux re-cap](linux.md)
-* [Nanopore introduction & QC](nanopore.md)
 
 ## Practical part
 
