@@ -99,11 +99,11 @@ ls
 12. Revenir dans `BioCell` ; y créer le répertoire `Animal` ; y déplacer en une seule commande toutes les images de cellules animales ; vérifier.
 13. Compresser le répertoire `Animal` en une archive tgz ; vérifier que l’archive contient bien les quatre images voulues ; supprimer en une seule commande le répertoire `Animal` non compressé et tout ce qu’il contient ; vérifier.
 14. Renommer le répertoire `LevElectro` en `ElectroLev` ; vérifier.
-15. Créer au moyen d’une commande utilisant un chemin absolu, le répertoire `Optique` dans BioCell; y déplacer en une seule commande toutes les images de microscopie optique qui restent dans BioCell (mais pas celles qu’on a placées dans ses sous-répertoires !) ; vérifier.
+15. Créer au moyen d’une commande utilisant un chemin absolu, le répertoire `Optique` dans BioCell ; y déplacer en une seule commande toutes les images de microscopie optique qui restent dans BioCell (mais pas celles qu’on a placées dans ses sous-répertoires !) ; vérifier.
 16. Déplacer l’image `SchBact.png` dans le répertoire `Bacteria`, en étant prévenu si la copie doit écraser un fichier déjà présent (c’est le cas ; valider l’écrasement pour effectuer la copie) ; vérifier.
 17. Déplacer en une seule commande tous les autres schémas dans le répertoire `Schemas`, en évitant d’avoir à valider l’écrasement ; vérifier.
 18. Supprimer en une seule commande toutes les images qui restent dans le répertoire `BioCell` (ne pas chercher à supprimer les images des sous-répertoires de `BioCell`) ; vérifier.
 19. Retourner dans le répertoire `exo-rangement` en une commande utilisant un chemin absolu ; vérifier.
-20. Compresser le répertoire `BioCell` en une archive au format tgz nommée `biocell2.tgz` en vérifiant lors de l’archivage le contenu de l’archive. (Vous devez demander de l'aide pour cette commande).
+20. Compresser le répertoire `BioCell` en une archive au format tgz nommée `biocell2.tgz` en vérifiant lors de l’archivage le contenu de l’archive. (Vous devrez demander de l'aide pour cette commande ou regarder comment utiliser la commande `tar` sur internet).
 21. Effacer le répertoire `BioCell` et tout ce qu’il contient ; vérifier.
 

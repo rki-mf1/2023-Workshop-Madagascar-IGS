@@ -2,6 +2,8 @@
 
 A practical introduction to short-read bioinformatics for bacterial genome reconstruction in the context of the Madagascar IGS workshop 2023.
 
+A set of laptops with linux installed will be provided for the lecture. If you want to work with your own laptop, please see the available options [below](#5)
+
 ## Schedule links for the workshop
 * [6 October - Friday](#0)
 * [9 October - Monday](#1)  
@@ -78,6 +80,13 @@ A practical introduction to short-read bioinformatics for bacterial genome recon
 | 13:00-15:00 | [Phylogenetic analyses Hands-on & demo](day04-thursday/phylogeny.md) |
 | 15:00-15:15 | Coffee break |
 | 15:15-16:00 | Wrap up & questions, Thank you and Goodbye! |
+
+
+### <a name="5"></a> Working with your own laptop
+
+You can either install a linux distribution as a dual boot or just install windows on linux (WSL). This will allow you to run a linux system within your windows environnment and it is recommended. You can check the installation instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install) (page en français [ici(https://learn.microsoft.com/fr-fr/windows/wsl/install)])
+
+You will then need to install the required environnments in mamba/conda. The list of environments used for this tutorial is available on [this page](mamba_commands.md)
 
 ## Acknowledgement
 
