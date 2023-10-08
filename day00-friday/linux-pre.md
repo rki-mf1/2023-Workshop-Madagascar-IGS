@@ -123,9 +123,10 @@ Le fichier [maripaludis_nc.tab](maripaludis_nc.tab) contient des données sur l
 
 Les colonnes sont séparées par des caractères de tabulation.
 
+**Note** : Ce fichier est donné pour s'entraîner avec les commandes linux, il n'est pas  lié aux analyses que nous feront dans les jours qui suivent.
 
 Donnez les commandes permettant de répondre aux questions suivantes (une seule ligne de commande suffit pour chaque question) :
-1. **Préparation**: En premier lieu, sauvez le fichier dans un répertoire `exo-ncARN` que vous utiliserez comme répertoire pour faire vos analyses.
+1. *Préparation*: En premier lieu, sauvez le fichier dans un répertoire `exo-ncARN` que vous utiliserez comme répertoire pour faire vos analyses.
 2. Commencez par visualiser les premières lignes du fichier, pour vous familiariser avec sa structure.
 2. Combien d’ARN non codants comporte le fichier ? N’oubliez pas de soustraire 1 pour la ligne d’en-tête.
 4. Sélectionnez les ARN non codants de la souche `DSM` à l'aide de grep. Combien y-a-t-il de lignes ? 

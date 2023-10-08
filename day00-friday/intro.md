@@ -9,4 +9,4 @@ We will start with a short overview of the basic functionality of Linux today.
 Find the slides [here](https://docs.google.com/presentation/d/1nFr2QNwxgBQiLuhOKRk9mE9HoWlvGSqkfGFXyyBZyI8/edit)
 
 ## Exercices avec Linux
-[Petits exercices Linux](linux-pre.md)
+[exercices Linux](linux-pre.md)

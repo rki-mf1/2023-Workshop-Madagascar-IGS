@@ -22,6 +22,4 @@ Go to [pollev.com/huguesrichard041](https://pollev.com/huguesrichard041) on your
 * There will be always "lecture" parts followed by practical hands-on 
 
 
-
-
 Next: [Linux for Bioinformatics re-cap](linux.md)

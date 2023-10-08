@@ -88,4 +88,3 @@ conda activate workshop
 
 __Hint:__ An often faster and more stable alternative to `conda` is `mamba`. Funningly, `mamba` can be installed via `conda` and then used in the similar way. Just replace `conda` then with `mamba` (like shown in the bioinformatics tool slides, linked below).
 
-Next: [Long-read Nanopore Introduction & Quality Control](nanopore.md)
