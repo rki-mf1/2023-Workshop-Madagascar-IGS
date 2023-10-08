@@ -6,7 +6,7 @@
 
 Go to [pollev.com/huguesrichard041](https://pollev.com/huguesrichard041) on your browser or phone and wait until the poll is active.
 
-## Presentating ourselves and the program for the workshop
+## Presenting ourselves and the workshop program
 
 [slides](https://docs.google.com/presentation/d/1iaI6PohUKIyBYmBZlLwqZQQ4Vi7_lFzfyO65PkYllzY/edit?usp=sharing)
 
