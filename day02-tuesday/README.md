@@ -3,6 +3,7 @@
 ## Lectures and Hands-on 
 
 * Morning session: 
+    - [NGS technologies slides]()
     - [Trimming](trimming.md) 
     - [Quality control](QC.md)
 
