@@ -2,7 +2,7 @@
 
 **Note**: If internet connection is slow, we can also distribute the example data via an USB stick (ask your instructor ;) ). 
 
-**General**: We will usually start with an "Hands-on" part that will guide you through some of the content from the lectures. Then, there is an "Excercise" part with more open questions. Lastly, there might be "Bonus" questions that require some additional knowledge and research. If you can not make it to the "Bonus", dont worry. The "Hands-on" and "Excercise" parts are most important and will be discussed the next day.
+**General**: We will usually start with an "Hands-on" part that will guide you through some of the content from the lectures. Then, there is an "Excercise" part with more open questions. Lastly, there might be "Bonus" questions that require some additional knowledge and research. If you can not make it to the "Bonus", dont worry. The "Hands-on" and "Exercise" parts are most important and will be discussed the next day.
 
 **Example data**: We will work with three different example data sets to showcase different usecases. 
 

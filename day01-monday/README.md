@@ -7,4 +7,4 @@
 
 ## Practical part
 
-* [Hands-on](hands-on.md)
+* [linux exercices](../day00-friday/linux-pre.md)
