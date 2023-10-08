@@ -33,17 +33,19 @@ A set of laptops with linux installed will be provided for the lecture. If you w
 | --          | --               |
 | 9:00-10:30 | Welcome & [introduction](day01-monday/general.md) |
 | 10:30-11:00 | Coffee break | 
-| 10:30-11:00 | [Linux re-cap](day01-monday/linux.md) |
+| 10:30-12:00 | [Linux re-cap](day01-monday/linux.md) |
 | 12:00-13:00 | Lunch break |
-| 14:00-14:30 | Coffee break |
-| 14:30-16:00 | [Hands-on & demo](day01-monday/hands-on.md) |
+| 13:00-14h30 | [Hands-on & Linux exercises](day01-monday/general.md)
+| 14:30-15:00 | Coffee break |
+| 15:00-16:00 | [Hands-on (followed)](day01-monday/general.md) |
 | 16:00-16:15 | Wrap-up & questions |
 
 ### <a name="2"></a> Tuesday, 10 October, 2023
 
 | Time        | Manual Raw data QC and analyses|
 | --          | --               |
-| 09:00-10:00 | Debriefing Day 1 |
+| 09:00-09:30 | Debriefing Day 1 |
+| 09:30-10:00 | [Intro NGS technology](day02-tuesday/README.md) | 
 | 10:00-10:15 | [Raw data quality control](day02-tuesday/trimming.md) |
 | 10:15-12:00 | [Hands-on & demo trimming](day02-tuesday/trimming.md) |
 | 10:45-11:00 | Coffee break |
