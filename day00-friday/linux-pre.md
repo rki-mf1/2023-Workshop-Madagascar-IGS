@@ -107,3 +107,33 @@ ls
 20. Compresser le répertoire `BioCell` en une archive au format tgz nommée `biocell2.tgz` en vérifiant lors de l’archivage le contenu de l’archive. (Vous devrez demander de l'aide pour cette commande ou regarder comment utiliser la commande `tar` sur internet).
 21. Effacer le répertoire `BioCell` et tout ce qu’il contient ; vérifier.
 
+
+## 3 - Séquences non codantes
+
+Le fichier [maripaludis_nc.tab](maripaludis_nc.tab) contient des données sur les ARN « non codants » (c’est-à-dire ne pas pour des protéines) de _Methanococcus maripaludis_. Chaque ligne du fichier contient, pour un codant ARN :
+
+* le code de la séquence génomique d’où est extrait l’ARN (N.B. une même séquence génomique peut contenir plusieurs ARN non codants) ;
+
+* la souche de `Methanococcus maripaludis` ;
+* la position de début de l’ARN dans la séquence génomique ;
+* la position de fin de l’ARN dans la séquence génomique ;
+* la longueur de l’ARN (évidemment, longueur = fin – début + 1) ;
+* la nature de l’ARN ;
+* le pourcentage de G+C de la séquence de l’ARN (arrondi à l’unité la plus proche).
+
+Les colonnes sont séparées par des caractères de tabulation.
+
+
+Donnez les commandes permettant de répondre aux questions suivantes (une seule ligne de commande suffit pour chaque question) :
+1. **Préparation**: En premier lieu, sauvez le fichier dans un répertoire `exo-ncARN` que vous utiliserez comme répertoire pour faire vos analyses.
+2. Commencez par visualiser les premières lignes du fichier, pour vous familiariser avec sa structure.
+2. Combien d’ARN non codants comporte le fichier ? N’oubliez pas de soustraire 1 pour la ligne d’en-tête.
+4. Sélectionnez les ARN non codants de la souche `DSM` à l'aide de grep. Combien y-a-t-il de lignes ? 
+5. Stockez les ARN non codants dans un fichier `DSM_nc.tab`
+6. Extrayez le nombre d'ANR non codants pour les souches `C5` et `C7` et stockez les dans un fichier `C5C7_nc.tab`.
+7. Triez le fichier par le pourcentage en GC et stocker dans `maripaludis_nc_GCtrie.tab`
+8. Quelle est le plus petit pourcentage de G+C parmi les ARN du fichier ?
+9. Quelle est la longueur du plus petit ARN du fichier ?
+10. Quelle est la longueur du plus grand ARN du fichier ?
+11. Combien de souches différentes de M. maripaludis sont représentées dans le fichier ?
+12. Combien de séquences d'ARN sont représentées pour chaque souche ?
