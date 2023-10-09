@@ -3,7 +3,7 @@
 ## Read trimming lecture
 First, we will look into short read raw data quality control.
 
-[Trimming Slides](https://docs.google.com/presentation/d/1NH_-i5VFoa5Ae0yjDqWhslQkuLy8_o_GJ_JRq_g3Yy0/edit#slide=id.p30)
+[Trimming Slides](https://docs.google.com/presentation/d/1BbtS4wJtUuch2fBSip_AH_nyT2bwuv_z3F_qeJTNqSY/edit#slide=id.g288cd11cf66_0_12)
 
 ## Read trimming hands-on
 ### Set up your infrastructure
