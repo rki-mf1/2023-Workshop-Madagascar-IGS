@@ -2,7 +2,7 @@
 
 ## Short Linux and bash re-cap (srry, again)
 
-* Slides from Friday [here](https://docs.google.com/presentation/d/1nFr2QNwxgBQiLuhOKRk9mE9HoWlvGSqkfGFXyyBZyI8/edit)
+* Complete linux intro [slides](https://docs.google.com/presentation/d/1wjtThgODtdrX_HO-tALuwGmWwAFwuc5qyjJJjeod-zU/edit?usp=sharing)
 * Linux/Bash basics + conda setup ([slides](https://docs.google.com/presentation/d/14xELo7lDbd-FYuy144ZDK1tV_ZBdBYun_COelrKYWps/edit?usp=sharing), [slides en français](https://docs.google.com/presentation/d/12nda1yGlGqZ9hVcBAwkdw1lw7EPgjXLFdJswJo3mll4/edit?usp=sharing))
 * Another good resource: [Introduction to the UNIX command line](https://ngs-docs.github.io/2021-august-remote-computing/introduction-to-the-unix-command-line.html)
 * small Bash cheat sheet below: 
