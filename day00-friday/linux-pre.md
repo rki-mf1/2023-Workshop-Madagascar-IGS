@@ -97,15 +97,14 @@ ls
 10. Tout en restant dans `Electro`, supprimer en une seule commande le répertoire `Lev` et tout ce qu’il contient ; vérifier.
 11. Copier en une seule commande dans `Electro` toutes les images de microscopie électronique présentes dans `BioCell` ; vérifier.
 12. Revenir dans `BioCell` ; y créer le répertoire `Animal` ; y déplacer en une seule commande toutes les images de cellules animales ; vérifier.
-13. Compresser le répertoire `Animal` en une archive tgz ; vérifier que l’archive contient bien les quatre images voulues ; supprimer en une seule commande le répertoire `Animal` non compressé et tout ce qu’il contient ; vérifier.
-14. Renommer le répertoire `LevElectro` en `ElectroLev` ; vérifier.
-15. Créer au moyen d’une commande utilisant un chemin absolu, le répertoire `Optique` dans BioCell ; y déplacer en une seule commande toutes les images de microscopie optique qui restent dans BioCell (mais pas celles qu’on a placées dans ses sous-répertoires !) ; vérifier.
-16. Déplacer l’image `SchBact.png` dans le répertoire `Bacteria`, en étant prévenu si la copie doit écraser un fichier déjà présent (c’est le cas ; valider l’écrasement pour effectuer la copie) ; vérifier.
-17. Déplacer en une seule commande tous les autres schémas dans le répertoire `Schemas`, en évitant d’avoir à valider l’écrasement ; vérifier.
-18. Supprimer en une seule commande toutes les images qui restent dans le répertoire `BioCell` (ne pas chercher à supprimer les images des sous-répertoires de `BioCell`) ; vérifier.
-19. Retourner dans le répertoire `exo-rangement` en une commande utilisant un chemin absolu ; vérifier.
-20. Compresser le répertoire `BioCell` en une archive au format tgz nommée `biocell2.tgz` en vérifiant lors de l’archivage le contenu de l’archive. (Vous devrez demander de l'aide pour cette commande ou regarder comment utiliser la commande `tar` sur internet).
-21. Effacer le répertoire `BioCell` et tout ce qu’il contient ; vérifier.
+13. Renommer le répertoire `LevElectro` en `ElectroLev` ; vérifier.
+14. Créer au moyen d’une commande utilisant un chemin absolu, le répertoire `Optique` dans BioCell ; y déplacer en une seule commande toutes les images de microscopie optique qui restent dans BioCell (mais pas celles qu’on a placées dans ses sous-répertoires !) ; vérifier.
+15. Déplacer l’image `SchBact.png` dans le répertoire `Bacteria`, en étant prévenu si la copie doit écraser un fichier déjà présent (c’est le cas ; valider l’écrasement pour effectuer la copie) ; vérifier.
+16. Déplacer en une seule commande tous les autres schémas dans le répertoire `Schemas`, en évitant d’avoir à valider l’écrasement ; vérifier.
+17. Supprimer en une seule commande toutes les images qui restent dans le répertoire `BioCell` (ne pas chercher à supprimer les images des sous-répertoires de `BioCell`) ; vérifier.
+18. Retourner dans le répertoire `exo-rangement` en une commande utilisant un chemin absolu ; vérifier.
+19. Compresser le répertoire `BioCell` en une archive au format tgz nommée `biocell2.tgz` en vérifiant lors de l’archivage le contenu de l’archive. (Vous devrez demander de l'aide pour cette commande ou regarder comment utiliser la commande `tar` sur internet).
+20. Effacer le répertoire `BioCell` et tout ce qu’il contient ; vérifier.
 
 
 ## 3 - Séquences non codantes
@@ -125,6 +124,31 @@ Les colonnes sont séparées par des caractères de tabulation.
 
 **Note** : Ce fichier est donné pour s'entraîner avec les commandes linux, il n'est pas  lié aux analyses que nous feront dans les jours qui suivent.
 
+
+**Préparation: tri de fichier avec la commande `sort`**:
+```bash
+# Trier le fichier par la première colonne en ordre lexicographique (le dictionnaire)
+sort maripaludis_nc.tab
+
+# Trier le fichier par la seconde colonne
+sort -k2,2 maripaludis_nc.tab
+
+# Trier le fichier par la longueur, est ce que ça marche ?
+sort -k5,5 maripaludis_nc.tab
+
+# Il faut trier en spécifiant des valeurs numériques avec l'option 'n'
+sort -k5,5n maripaludis_nc.tab
+
+# Trions par le pourcentage en GC
+sort -k7,7n maripaludis_nc.tab
+
+# Ca ne marche pas à cause des espaces dans la 6è colonne,
+# on doit donner la tabulation comme séparateur
+sort -t$'\t' -k7,7n maripaludis_nc.tab
+
+```
+
+
 Donnez les commandes permettant de répondre aux questions suivantes (une seule ligne de commande suffit pour chaque question) :
 1. *Préparation*: En premier lieu, sauvez le fichier dans un répertoire `exo-ncARN` que vous utiliserez comme répertoire pour faire vos analyses.
 2. Commencez par visualiser les premières lignes du fichier, pour vous familiariser avec sa structure.
@@ -138,3 +162,4 @@ Donnez les commandes permettant de répondre aux questions suivantes (une seule
 10. Quelle est la longueur du plus grand ARN du fichier ?
 11. Combien de souches différentes de M. maripaludis sont représentées dans le fichier ?
 12. Combien de séquences d'ARN sont représentées pour chaque souche ?
+
