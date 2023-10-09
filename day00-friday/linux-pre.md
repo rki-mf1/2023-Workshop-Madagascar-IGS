@@ -146,6 +146,22 @@ sort -k7,7n maripaludis_nc.tab
 # on doit donner la tabulation comme séparateur
 sort -t$'\t' -k7,7n maripaludis_nc.tab
 
+# la commande cut permet d'extraire un ou plusieurs colonnes
+cut -f 3 maripaludis_nc.tab
+
+# pour extraire deux colonnes 
+cut -f 3,5 maripaludis_nc.tab 
+
+# On peut combiner 'cut' avec 'sort' et 'uniq' pour avoir les
+# souches apparaissant
+cut -f 2  maripaludis_nc.tab | sort | uniq
+
+# le plus bas pourcentage en GC
+cut -f 7 maripaludis_nc.tab | sort | head -n 2
+
+# les deux plus haut pourcentages en GC
+cut -f 7 maripaludis_nc.tab | sort | tail -n 2 
+
 ```
 
 
