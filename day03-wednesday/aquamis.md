@@ -48,7 +48,7 @@ If everything looks good, we start the actual processing.
 aquamis -l /home/igsw/igs_workshop/raw_data/samples.tsv -d /home/igsw/igs_workshop/aquamis_results -t 16
 ```
 
-AQUMAMIS will automatically generate an interactive report for manual curation of your QC results. Open it in the browser:
+AQUAMIS will automatically generate an interactive report for manual curation of your QC results. Open it in the browser:
 
 ```
 readlink -f assembly_report.html 
