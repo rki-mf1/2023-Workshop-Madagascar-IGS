@@ -81,12 +81,12 @@ cd exo-rangement
 # wget est une commande qui permet de télécharger directement un fichier d'internet 
 wget wget https://github.com/rki-mf1/2023-Workshop-Madagascar-IGS/raw/main/day00-friday/biocell.tgz
 
-tar -xvjf biocell.tgz
+tar -xvzf biocell.tgz
 # vérifions ce qui a été créé
 ls 
 ```
 
-2. Afficher la liste des fichiers présents dans le répertoire. (note, vous pouvez aussi regarder les images avec l'explorateur de fichiers ou la commande `xdg-open`)
+2. Afficher la liste des fichiers présents dans le répertoire. (note, vous pouvez aussi regarder les images avec l'explorateur de fichiers)
 3. Trouver quel est le fichier le plus récent et le plus ancien.
 4. Créer, dans le répertoire courant, un sous-répertoire nommé `Schemas`.
 5. Copier en une seule commande les quatre images correspondant à des schémas dans le répertoire `Schemas` ; vérifier que l’on a bien copié les fichiers voulus et seulement eux.
