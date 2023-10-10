@@ -52,5 +52,16 @@ readlink -f fastp.html
 ```
 Paste the resulting link into your browser and look at the report.
 
+### Practice: Read the fastp-manual and set some stricter parameters. Rerun the tool and compare the reports.
+
+
+### Practice: Write a loop over all *.fastq.gz files in your data folder to trim all reads. 
+We will need to loop over the sample names to differenciate between read 1 and read 2. 
+To get the sample name, we can use the `basename` command:
+```bash
+basename /home/igsw/igs_workshop/raw_data/ERR9964620_1.fastq.gz _1.fastq.gz
+```
+
+
 
 Once you have trimmed reads, you can continue with [read mapping](mapping.md) and other analysis steps.
