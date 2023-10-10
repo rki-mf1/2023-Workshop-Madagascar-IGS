@@ -31,6 +31,8 @@ wget -O references/yersinia_pestis_A1122.fasta https://www.ebi.ac.uk/ena/browser
 # Aligning the reads from the sample ERRxx to the reference ref.fa
 minimap2 -a -x sr references/yersinia_pestis_A1122.fasta raw_data/ERR9964620_1.fastq.gz raw_data/ERR9964620_2.fastq.gz > mapping/ERR9964620.sam  
 
+# We could have also aligned the trimmed reads. Let's do it to compare afterwards
+minimap2 -a -x sr references/yersinia_pestis_A1122.fasta trimming/ERR9964620_1_trimmed.fastq.gz trimming/ERR9964620_2_trimmed.fastq.gz > mapping/ERR9964620_trimmed.sam
 
 ```
 [Publication](https://doi.org/10.1093/bioinformatics/bty191) | [Code](https://github.com/lh3/minimap2)
