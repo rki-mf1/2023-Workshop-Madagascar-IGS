@@ -2,3 +2,4 @@
 
 # Reads mapping 
 
+We will align the reads from the dataset 
