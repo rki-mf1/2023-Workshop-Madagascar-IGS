@@ -44,7 +44,7 @@ Inspect the resulting SAM file. Check the [SAM format specification](https://sam
 ```bash
 # first, we need to convert the SAM file into a sorted BAM file to load it subsequently in IGV
 samtools view -b -S mapping/ERR9964620.sam | samtools sort -@ 4 > mapping/ERR9964620.sorted.bam 
-samtools mapping/ERR9964620.sorted.bam 
+samtools index mapping/ERR9964620.sorted.bam 
 
 # start IGV browser and load the reference genome file (the FASTA) and the BAM file, inspect the output
 igv &
