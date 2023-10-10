@@ -46,6 +46,11 @@ Inspect the resulting SAM file. Check the [SAM format specification](https://sam
 samtools view -b -S mapping/ERR9964620.sam | samtools sort -@ 4 > mapping/ERR9964620.sorted.bam 
 samtools index mapping/ERR9964620.sorted.bam 
 
+# Let's also prepare the trimmed reads
+samtools view -b -S mapping/ERR9964620_trimmed.sam | samtools sort -@ 4 > mapping/ERR9964620_trimmed.sorted.bam 
+samtools index mapping/ERR9964620_trimmed.sorted.bam 
+
+
 # start IGV browser and load the reference genome file (the FASTA) and the BAM file, inspect the output
 igv &
 ```
