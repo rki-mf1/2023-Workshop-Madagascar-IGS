@@ -52,8 +52,29 @@ readlink -f fastp.html
 ```
 Paste the resulting link into your browser and look at the report.
 
-### Practice: Read the fastp-manual and set some stricter parameters. Rerun the tool and compare the reports.
+### Let's look at the results in the terminal
 
+```bash
+# let's go back to our workshop directory
+cd ~/igsw/igs_workshop/
+
+# zcat is a cat for gzipped files
+zcat raw_data/ERR9964620_1.fastq.gz | less
+
+# Look at the trimmed reads
+zcat trimming/ERR9964620_1_trimmed.fastq.gz | less
+
+# Let's search for a specific read using `grep`
+zcat trimming/ERR9964620_1_trimmed.fastq.gz | grep "@ERR9964620.8 "  # notice the space after the 8
+
+# If we want to see the read information we can use the -A option (for After)
+zcat trimming/ERR9964620_1_trimmed.fastq.gz | grep -A 3 "@ERR9964620.8 "  
+
+
+```
+
+
+### Practice: Read the fastp-manual and set some stricter parameters. Rerun the tool and compare the reports.
 
 ### Practice: Write a loop over all *.fastq.gz files in your data folder to trim all reads. 
 We will need to loop over the sample names to differenciate between read 1 and read 2. 
