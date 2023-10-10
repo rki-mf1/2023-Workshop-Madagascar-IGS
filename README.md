@@ -46,12 +46,12 @@ A set of laptops with linux installed will be provided for the lecture. If you w
 | --          | --               |
 | 09:00-09:30 | Debriefing Day 1 |
 | 09:30-10:00 | [Intro NGS technology](day02-tuesday/README.md) | 
-| 10:00-10:15 | [Raw data quality control](day02-tuesday/trimming.md) |
-| 10:15-12:00 | [Hands-on & demo trimming](day02-tuesday/trimming.md) |
+| 10:00-10:45 | [Raw data quality control](day02-tuesday/trimming.md) |
 | 10:45-11:00 | Coffee break |
+| 11:00-12:00 | [Hands-on & demo trimming](day02-tuesday/trimming.md) |
 | 12:00-13:00 | Lunch break |
 | 13:00-14:00 | [Read mapping](day02-tuesday/mapping.md) |
-| 13:00-14:30 | [Hands-on & demo mapping](day02-tuesday/mapping.md) |
+| 14:00-14:30 | [Hands-on & demo mapping](day02-tuesday/mapping.md) |
 | 14:30-15:00 | Coffee break |
 | 15:00-15:45 | Continue practical session |
 | 15:45-16:00 | Wrap-up & questions |
