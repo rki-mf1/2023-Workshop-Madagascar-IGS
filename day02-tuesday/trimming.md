@@ -76,6 +76,15 @@ zcat trimming/ERR9964620_1_trimmed.fastq.gz | grep -A 3 "@ERR9964620.8 "
 
 ### Practice: Read the fastp-manual and set some stricter parameters. Rerun the tool and compare the reports.
 
+* We will change the mean Q value filter to 30 to be stricter (which means a proba of error of 1/1000).
+* We have to be careful to generate other trimmed fastq files 
+
+```bash
+# 
+fastp -i raw_data/ERR9964620_1.fastq.gz -I raw_data/ERR9964620_2.fastq.gz -o trimming/ERR9964620_1_trimmed_strict.fastq.gz -O trimming/ERR9964620_2_trimmed_strict.fastq.gz --html fastp_strict.html -q 30 -M 30 
+
+```
+
 ### Practice: Write a loop over all *.fastq.gz files in your data folder to trim all reads. 
 We will need to loop over the sample names to differenciate between read 1 and read 2. 
 To get the sample name, we can use the `basename` command:
