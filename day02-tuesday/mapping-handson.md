@@ -77,10 +77,10 @@ wget -o references/yersinia_pestis_SCPM-O-B-5942.fasta https://www.ebi.ac.uk/ena
 tablet &
 
 # load mapping file as 'primary assembly'
-# ->  mapping/zymo-2022-listeria.sam
+# ->  mapping/ERR9964620.sam
 
 # load assembly file as 'Reference/consensus file'
-# ->  reference-genomes/GCF_000196035.1_ASM19603v1_genomic.fna
+# ->  references/yersinia_pestis_A1122.fasta
 ```
 [Publication](http://dx.doi.org/10.1093/bib/bbs012) | [Code](https://ics.hutton.ac.uk/tablet/)
 
