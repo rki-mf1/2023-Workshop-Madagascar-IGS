@@ -79,7 +79,7 @@ mkdir exo-rangement
 cd exo-rangement
 
 # wget est une commande qui permet de télécharger directement un fichier d'internet 
-wget wget https://github.com/rki-mf1/2023-Workshop-Madagascar-IGS/raw/main/day00-friday/biocell.tgz
+wget https://github.com/rki-mf1/2023-Workshop-Madagascar-IGS/raw/main/day00-friday/biocell.tgz
 
 tar -xvzf biocell.tgz
 # vérifions ce qui a été créé
