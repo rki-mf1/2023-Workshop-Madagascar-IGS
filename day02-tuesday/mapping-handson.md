@@ -25,7 +25,7 @@ mkdir mapping
 # create a directory for the reference sequence
 mkdir references
 # download the most common reference for pestis
-wget -o references/yersinia_pestis_A1122.fasta https://www.ebi.ac.uk/ena/browser/api/fasta/CP002956.1?download=true
+wget -O references/yersinia_pestis_A1122.fasta https://www.ebi.ac.uk/ena/browser/api/fasta/CP002956.1?download=true
 
 
 # Aligning the reads from the sample ERRxx to the reference ref.fa
