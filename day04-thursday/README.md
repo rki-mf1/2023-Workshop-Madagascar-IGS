@@ -1,10 +1,10 @@
 # 2023 Workshop IGS Genome reconstruction - Day 04
 
-We use the last day for open questions and to discuss some additional helpful tools for your daily work with (Nanopore) sequencing data, assemblies, and annotations.
+We will present different methods for phylogenetic clustering of sequences and perform a hands-on using [chewieSnake](https://gitlab.com/bfr_bioinformatics/chewiesnake).
 
 ## Lectures
 
-* [Miscellaneous](https://docs.google.com/presentation/d/16oKJTsk0NX4w4TlfNGfJ1CZDW-CiDSXt-L-BqU3iLIc/edit?usp=sharing)
+* [chewieSnake Slides](https://docs.google.com/presentation/d/1jrMbTRw470Nc_YrCLnZxZazdkoevCzvAofPe6B0iCfM/edit#slide=id.p1)
 
 ## Practical part
 
