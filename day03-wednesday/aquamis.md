@@ -4,7 +4,7 @@ To ease analyses and get more reproducible, harmonized results, we can use pipel
 
 ## Lecture 
 
-Raw data QC and assembly using AQUAMIS [Slides](https://docs.google.com/presentation/d/1NH_-i5VFoa5Ae0yjDqWhslQkuLy8_o_GJ_JRq_g3Yy0/edit#slide=id.p30).
+Raw data QC and assembly using AQUAMIS [Slides](https://docs.google.com/presentation/d/1aDwaBFyBnHwniu8zNUv8baOQ4K_t63lDQnOJiW-rUSM/edit?usp=sharing).
 
 ## Hands-on
 
