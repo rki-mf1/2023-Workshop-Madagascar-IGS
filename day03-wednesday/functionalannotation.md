@@ -12,7 +12,7 @@ Find the slides on functional annotation [here](https://docs.google.com/presenta
 ### Setup of abricate
 
 ```bash
-conda install -c conda-forge -c bioconda -c defaults abricate
+mamba create -n abricate -c conda-forge -c bioconda -c defaults abricate
 abricate --check
 abricate --list
 ```
