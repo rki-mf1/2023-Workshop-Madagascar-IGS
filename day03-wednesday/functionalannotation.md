@@ -13,6 +13,9 @@ Find the slides on functional annotation [here](https://docs.google.com/presenta
 
 ```bash
 mamba create -n abricate -c conda-forge -c bioconda -c defaults abricate
+
+conda activate abricate
+
 abricate --check
 abricate --list
 ```
