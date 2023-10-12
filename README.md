@@ -90,7 +90,7 @@ A set of laptops with linux installed will be provided for the lecture. If you w
 
 ### <a name="5"></a> Working with your own laptop
 
-You can either install a linux distribution as a dual boot or just install windows on linux (WSL). This will allow you to run a linux system within your windows environnment and it is recommended. You can check the installation instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install) (page en français [ici(https://learn.microsoft.com/fr-fr/windows/wsl/install)])
+You can either install a linux distribution as a dual boot or just install windows on linux (WSL). This will allow you to run a linux system within your windows environnment and it is recommended. You can check the installation instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install) (page en français [ici](https://learn.microsoft.com/fr-fr/windows/wsl/install) )
 
 You will then need to install the required environnments in mamba/conda. The list of environments used for this tutorial is available on [this page](mamba_commands.md)
 
