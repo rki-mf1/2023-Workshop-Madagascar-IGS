@@ -43,13 +43,13 @@ Next, we want to run chewieSnake on all of these samples. We again precalculated
 
 First, we want to check if our data is correct. To do so, we perform a dry run.
 ```bash
-/home/igsw/igs_workshop/software/chewieSnake/chewieSnake.py -l /home/igsw/igs_workshop/aquamis_results/Assembly/assembly/samples.tsv --scheme /home/igsw/igs_workshop/software/chewieSnake/ypestis --prodigal /home/igsw/igs_workshop/software/chewieSnake/ypestis_data/ypestis_ASM22297v1.trn -n -d /home/igsw/igs_workshop/chewiesnake_results/
+/home/igsw/igs_workshop/software/chewieSnake/chewieSnake.py -l /home/igsw/igs_workshop/aquamis_results/Assembly/assembly/samples.tsv --scheme /home/igsw/igs_workshop/software/chewieSnake/ypestis_data --prodigal /home/igsw/igs_workshop/software/chewieSnake/ypestis_data/ypestis_ASM22297v1.trn -n -d /home/igsw/igs_workshop/chewiesnake_results/
 ```
 
 If everything looks good, we start the actual processing.
 
 ```bash
-/home/igsw/igs_workshop/software/chewieSnake/chewieSnake.py -l /home/igsw/igs_workshop/aquamis_results/Assembly/assembly/samples.tsv --scheme /home/igsw/igs_workshop/software/chewieSnake/ypestis --prodigal /home/igsw/igs_workshop/software/chewieSnake/ypestis_data/ypestis_ASM22297v1.trn -d /home/igsw/igs_workshop/chewiesnake_results/
+/home/igsw/igs_workshop/software/chewieSnake/chewieSnake.py -l /home/igsw/igs_workshop/aquamis_results/Assembly/assembly/samples.tsv --scheme /home/igsw/igs_workshop/software/chewieSnake/ypestis_data --prodigal /home/igsw/igs_workshop/software/chewieSnake/ypestis_data/ypestis_ASM22297v1.trn -d /home/igsw/igs_workshop/chewiesnake_results/
 ```
 
 chewieSnake will automatically generate an interactive report for manual curation of your QC results. Open it in the browser:
