@@ -68,13 +68,16 @@ grapetree
 ```
 This will open a browser window showing a local webserver (`http://localhost:8000/`).
 
+Grapetree is also available as [web service](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html)
+
 You can upload your tree:
 
 `/home/igsw/igs_workshop/chewiesnake_results/cgmlst/exported_trees/clustering_global.tre` 
 
 and the according metadata:
 
-`/home/igsw/igs_workshop/raw_data/ypestis_data_enterobase_clean2.csv`
+`/home/igsw/igs_workshop/raw_data/ypestis_data_enterobase_curated.csv`
 
+Alternatively, we can vizualize our results in [phandango](jameshadfield.github.io/phandango/).
 
 In the resulting interactive view, you can visualize different metadata fields within the tree. Play around with it and let's try to read someting meaningful from it!
