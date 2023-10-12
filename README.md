@@ -79,9 +79,8 @@ A set of laptops with linux installed will be provided for the lecture. If you w
 | 10:00-11:00 | [Phylogenetic analyses Lecture](day04-thursday/phylogeny.md) |
 | 11:00-12:00 | [Phylogenetic analyses Hands-on & demo](day04-thursday/phylogeny.md) |
 | 12:00-13:00 | Lunch break |
-| 13:00-15:00 | [Phylogenetic analyses Hands-on & demo](day04-thursday/phylogeny.md) |
-| 15:00-15:15 | Coffee break |
-| 15:15-16:00 | Wrap up & questions, Thank you and Goodbye! |
+| 13:00-15:00 | Wrap up & questions, Thank you and Goodbye!|
+| 15:00-15:15 | Coffee |
 
 ### <a name="poll"></a> Poll for the follow up project
 
