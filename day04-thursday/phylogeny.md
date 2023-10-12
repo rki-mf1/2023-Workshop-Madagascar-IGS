@@ -78,6 +78,6 @@ and the according metadata. The metadata can be downloaded [here](ypestis_data_c
 
 `/home/igsw/igs_workshop/raw_data/ypestis_data_curated.csv`
 
-Alternatively, we can vizualize our results in [phandango](jameshadfield.github.io/phandango/).
+Alternatively, we can vizualize our results in [phandango](https://jameshadfield.github.io/phandango/).
 
 In the resulting interactive view, you can visualize different metadata fields within the tree. Play around with it and let's try to read someting meaningful from it!
