@@ -74,9 +74,9 @@ You can upload your tree:
 
 `/home/igsw/igs_workshop/chewiesnake_results/cgmlst/exported_trees/clustering_global.tre` 
 
-and the according metadata:
+and the according metadata. The metadata can be downloaded [here](ypestis_data_curated.csv)
 
-`/home/igsw/igs_workshop/raw_data/ypestis_data_enterobase_curated.csv`
+`/home/igsw/igs_workshop/raw_data/ypestis_data_curated.csv`
 
 Alternatively, we can vizualize our results in [phandango](jameshadfield.github.io/phandango/).
 
