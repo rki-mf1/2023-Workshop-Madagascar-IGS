@@ -83,6 +83,10 @@ A set of laptops with linux installed will be provided for the lecture. If you w
 | 15:00-15:15 | Coffee break |
 | 15:15-16:00 | Wrap up & questions, Thank you and Goodbye! |
 
+### <a name="poll"></a> Poll for the follow up projects
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZOgRQjx0XICaXR779voffZmICAvqxqDdEBZj5tONpGKigUA/viewform?embedded=true" width="640" height="2064" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ### <a name="5"></a> Working with your own laptop
 
